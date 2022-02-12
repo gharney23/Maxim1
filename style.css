@@ -65,4 +65,5 @@ img {
     animation-iteration-count:infinite;
 }
 
-
+a {font-size: 16pt;
+color: coral;}
